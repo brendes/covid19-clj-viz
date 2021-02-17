@@ -1,16 +1,18 @@
-Bundesland	Fälle
-Baden-Württemberg	73
-Bayern	70
-Berlin	13
-Brandenburg	1
-Bremen	3
-Hamburg	5
-Hessen	14
-Mecklenburg-Vorpommern	4
-Niedersachsen	18
-Nordrhein-Westfalen	181
-Rheinland-Pfalz	8
-Saarland	1
-Sachsen	1
-Schleswig Holstein	7
-Thüringen	1
+Bundesland	Anzahl	Differenz zum Vortag	Erkr./ 100.000 Einw.	Todesfälle	Besonders betroffene Gebiete in Deutschland
+Baden-Württemberg	2.155	+546	19,47	6	
+Bayern	1.692	+449	12,94	8	
+Berlin	573	+182	15,29	0	
+Brandenburg	134	+42	5,33	0	
+Bremen	80	+11	11,71	0	
+Hamburg	432	+74	23,46	0	
+Hessen	682	+250	10,88	0	
+Mecklenburg-Vorpommern	98	+42	6,09	0	
+Niedersachsen	669	+191	8,38	0	
+Nordrhein-Westfalen	3.033	+661	16,91	6	Landkreis Heinsberg
+Rheinland-Pfalz	637	+163	15,59	0	
+Saarland	99	+11	9,99	0	
+Sachsen	275	+77	6,74	0	
+Sachsen-Anhalt	140	+35	6,34	0	
+Schleswig-Holstein	202	+43	6,97	0	
+Thüringen	98	+24	4,57	0	
+Gesamt	10.999	+2.801	13,23	20	
